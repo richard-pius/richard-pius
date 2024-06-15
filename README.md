@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on:
-- instagram :@richard_koyikkara
+- 
 
 <!---
 richard-pius/richard-pius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
