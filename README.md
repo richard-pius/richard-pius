@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richard-pius
 - 👀 I’m interested in computer science , tech news and learning to code!
-- 🌱 I’m currently learning front end web development.
+- 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on:
 - 
