@@ -1,5 +1,5 @@
 #Hi, My name is Richard Pius<br>
-📖 I am currently a BCA student and I am very interested in the fied of Computer Science and Technology and I am currently learning Web development and Cyber security<br>
+📖 I am currently a BCA student and I am very interested in the fied of Computer Science and Technology and I am also currently learning Web development and Cyber security<br>
 👨🏻‍💻 I am currently working on new and interesting side projects which i find interesting!<br>
 🌐 You can know more about me through my portfolio website: https://portfolio-website-beige-six.vercel.app/
 
