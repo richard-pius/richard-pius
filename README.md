@@ -75,7 +75,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/richard-pius/A-semantic-library-book-recommender">BookRecommender.ai</a></h3>
+      <h3>📚 <a href="https://github.com/richard-pius/A-semantic-library-book-recommender">BookRecommender</a></h3>
       <p>AI-powered semantic library book recommendation engine using machine learning and NLP.</p>
       <p>
         <img src="https://img.shields.io/badge/Engine-AI_NLP-3776AB?style=flat-square&logo=python&logoColor=white"/>
