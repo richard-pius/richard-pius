@@ -1,15 +1,19 @@
 <div align="center">
 
-<!-- Animated Header Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I%27m+Richard+Pius+%F0%9F%91%8B;BCA+Student+%26+Software+Developer+%F0%9F%92%BB;AI+%26+Systems+Programming+Explorer+%F0%9F%A7%A0;Cybersecurity+%26+DevOps+Enthusiast+%F0%9F%9D%A1%EF%B8%8F" alt="Typing SVG" />
+<!-- Animated Header Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b5,100:00c6ff&height=200&section=header&text=Richard%20Pius&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Richard Pius Header" />
+
+<!-- Dynamic Neon Typing Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=Hi+there%2C+I%27m+Richard+Pius+%F0%9F%91%8B;Full-Stack+%26+Systems+Software+Engineer+%F0%9F%92%BB;AI+Driven+Systems+%26+Compiler+Architect+%F0%9F%A7%A0;Cybersecurity+%26+DevOps+Explorer+%F0%9F%9D%A1%EF%B8%8F" alt="Typing SVG" />
 
 <!-- Quick Subtitle / Navigation Pills -->
 <p align="center">
   <b>🎓 Bachelor of Computer Applications Student</b> • 
-  <b>💻 Full-Stack & Systems Developer</b> • 
-  <b>🛡️ Security Explorer</b>
+  <b>💻 Full-Stack & Systems Engineering</b> • 
+  <b>🛡️ Cybersecurity Explorer</b>
 </p>
 
+<!-- Interactive Quick Action Buttons -->
 <p align="center">
   <a href="https://richardpius.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-richardpius.vercel.app-007ACC?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="https://richardblog.vercel.app/"><img src="https://img.shields.io/badge/📝_Blog-richardblog.vercel.app-111827?style=for-the-badge&logoColor=white" alt="Blog"/></a>
@@ -158,12 +162,12 @@ Hello! I'm **Richard Pius**, a Bachelor of Computer Applications (BCA) student w
         <img src="https://github-readme-stats.shion.dev/api?username=richard-pius&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="Richard's GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=richard-pius&theme=tokyonight&hide_border=true" width="100%" alt="Richard's Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=richard-pius&theme=tokyonight&hide_border=true" width="100%" alt="Richard's Streak Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=richard-pius&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=richard-pius&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -189,7 +193,3 @@ I am always open to discussing new software engineering opportunities, collabora
     <img src="https://img.shields.io/badge/Blog-111827?style=for-the-badge&logo=next.js&logoColor=white" alt="Blog"/>
   </a>
 </p>
-
-<div align="center">
-  <sub>✨ Designed with precision for <a href="https://github.com/richard-pius">Richard Pius</a></sub>
-</div>
