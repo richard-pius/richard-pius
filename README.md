@@ -1,223 +1,450 @@
-<!-- CYBERPUNK 2077 CYBER-OS INTERFACE // NETRUNNER EDITION -->
 <div align="center">
 
-<!-- 3D Cyberpunk Animated Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,50:00F0FF,100:FF0055&height=220&section=header&text=RICHARD%20PIUS%20//%20NETRUNNER%202077&fontSize=42&fontColor=FEE000&animation=twinkling&fontAlignY=36" width="100%" alt="Cyberpunk Header" />
+<!-- ========================================== -->
+<!-- 🟡 NEOBRUTALISM HERO BANNER & WINDOW CHROME -->
+<!-- ========================================== -->
 
-<!-- Cyber Terminal Header Control Bar -->
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #00F0FF; border-radius: 8px; overflow: hidden; background-color: #050811;">
-  <tr style="background-color: #12131C;">
-    <td align="left" style="padding: 10px 15px;">
-      <span style="color: #FF0055; font-size: 16px;">●</span> 
-      <span style="color: #FEE000; font-size: 16px;">●</span> 
-      <span style="color: #00F0FF; font-size: 16px;">●</span>
+<!-- Animated Neobrutalist Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE600,50:FF5376,100:00F59B&height=230&section=header&text=RICHARD%20PIUS&fontSize=52&fontColor=000000&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20FULL-STACK%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20AI%20ENGINEER&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Richard Pius Neobrutalist Header" />
+
+<!-- Neobrutalist Retro Window Control Header -->
+<table width="100%" cellspacing="0" cellpadding="0" border="3" style="border: 3px solid #000000; border-radius: 10px; border-collapse: separate; overflow: hidden; background-color: #FFE600; box-shadow: 6px 6px 0px #000000;">
+  <tr bgcolor="#FFE600">
+    <td align="left" style="padding: 12px 18px; font-family: monospace;">
+      <span style="font-size: 18px; line-height: 1;">🔴 🟡 🟢</span>
       &nbsp;&nbsp;
-      <b style="color: #00F0FF; font-family: monospace; font-size: 13px;">netrunner@richard-cyber-os: ~/neural_deck (zsh)</b>
+      <b style="color: #000000; font-size: 14px; letter-spacing: 0.5px; text-transform: uppercase;">richard@workstation: ~/portfolio (zsh)</b>
     </td>
-    <td align="right" style="padding: 10px 15px;">
-      <img src="https://img.shields.io/badge/CYBER_LINK-ONLINE_2077-00F0FF?style=flat-square&logo=gnu-bash&logoColor=black" alt="Status"/>
+    <td align="right" style="padding: 12px 18px;">
+      <a href="https://richardpius.vercel.app/"><img src="https://img.shields.io/badge/STATUS-ACTIVE%20IN%20PROD-00F59B?style=for-the-badge&logoColor=black&labelColor=000000" alt="Status Active" /></a>
+      <img src="https://komarev.com/ghpvc/?username=richard-pius&style=for-the-badge&color=FFE600&labelColor=000000" alt="Profile Views" />
     </td>
   </tr>
 </table>
 
-<!-- Precise Animation Timing Cyber Terminal Typing -->
+<!-- Neobrutalist Dynamic Typing Ticker Box -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=00F0FF&center=true&vCenter=true&width=750&height=45&lines=%3E_INITIALIZING_NEURAL_INTERFACE...;%3E_ROLE%3A_FULLSTACK_%26_SYSTEMS_ENGINEER;%3E_CYBER_SECURITY_%26_AI_NETRUNNER;%3E_WELCOME_TO_CYBER_OS_2077" alt="Cyber Typing Sequence" />
+<table width="100%" cellspacing="0" cellpadding="0" border="3" style="border: 3px solid #000000; border-radius: 8px; border-collapse: separate; background-color: #FFFDF0; box-shadow: 5px 5px 0px #000000;">
+  <tr bgcolor="#FFFDF0">
+    <td align="center" style="padding: 10px 15px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=750&height=42&lines=%3E_HELLO%20WORLD!%20I'M%20RICHARD%20PIUS%20%F0%9F%91%8B;%3E_FULLSTACK%20%26%20SYSTEMS%20SOFTWARE%20ENGINEER;%3E_BUILDING%20COMPILERS%2C%20AI%20MODELS%20%26%20WEB%20PLATFORMS;%3E_TURNING%20COMPLEX%20SPECS%20INTO%20HIGH-IMPACT%20SOFTWARE" alt="Typing Animation" />
+    </td>
+  </tr>
+</table>
 <br/>
 
-<!-- Interactive Cyber Action Capsules -->
+<!-- Neobrutalist Quick-Action Pill Dock -->
 <p align="center">
-  <a href="https://richardpius.vercel.app/"><img src="https://img.shields.io/badge/🌐_Cyber_Deck-richardpius.vercel.app-00F0FF?style=for-the-badge&logoColor=black" alt="Portfolio"/></a>
-  <a href="https://richardblog.vercel.app/"><img src="https://img.shields.io/badge/📝_Net_Logs-richardblog.vercel.app-FF0055?style=for-the-badge&logoColor=white" alt="Blog"/></a>
-  <a href="https://linkedin.com/in/richard-pius-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:richardpius2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://richardpius.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-richardpius.vercel.app-FFE600?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" alt="Portfolio" /></a>
+  <a href="https://richardblog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/TECH_BLOG-richardblog.vercel.app-FF5376?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Tech Blog" /></a>
+  <a href="https://2d-portfolio-game.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/2D_RPG_GAME-PLAY_LIVE-00F59B?style=for-the-badge&logo=cloudflarepages&logoColor=black&labelColor=000000" alt="2D RPG Game" /></a>
+  <a href="https://linkedin.com/in/richard-pius-developer" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-richard--pius--developer-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn" /></a>
+  <a href="mailto:richardpius2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-richardpius2005%40gmail.com-FF7A00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" /></a>
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
 
-## ⚡ NEURAL SPECS & SYSTEM DIAGNOSTICS (`neofetch`)
+<!-- ========================================== -->
+<!-- 👤 ABOUT ME / DEVELOPER DIAGNOSTICS BENTO -->
+<!-- ========================================== -->
 
-<table width="100%" style="border-collapse: collapse; border: 2px solid #00F0FF; background-color: #050811; border-radius: 8px;">
-  <tr>
-    <td width="35%" align="center" valign="middle" style="padding: 20px;">
-      <img src="https://avatars.githubusercontent.com/u/142656806?v=4" width="140" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 15px #00F0FF;" alt="Avatar"/><br/><br/>
-      <b style="color: #FEE000; font-size: 18px; font-family: monospace;">Richard Pius</b><br/>
-      <span style="color: #00F0FF; font-size: 13px; font-family: monospace;">BCA Student & Netrunner</span>
+<table width="100%" cellspacing="0" cellpadding="0" border="3" style="border: 3px solid #000000; border-radius: 12px; border-collapse: separate; overflow: hidden; background-color: #FFFDF0; box-shadow: 6px 6px 0px #000000; margin-bottom: 25px;">
+  <!-- Window Header Bar -->
+  <tr bgcolor="#FFE600">
+    <td colspan="2" style="padding: 10px 18px; border-bottom: 3px solid #000000;">
+      <b style="color: #000000; font-family: monospace; font-size: 14px;">⚡ DEVELOPER_SPECS // SYSTEM DIAGNOSTICS (`neofetch`)</b>
     </td>
-    <td width="65%" valign="top" style="padding: 20px; font-family: monospace; color: #c9d1d9;">
-      <p><b style="color: #00F0FF;">netrunner@richard-cyber-os</b><br/><span style="color: #FF0055;">----------------------------------------</span></p>
-      <p>
-        <b style="color: #FEE000;">OS:</b> CyberOS 2077 v3.0 x86_64<br/>
-        <b style="color: #FEE000;">HOST:</b> Bachelor of Computer Applications (BCA)<br/>
-        <b style="color: #FEE000;">NEURAL KERNEL:</b> Full-Stack Web / Systems / AI Engineering<br/>
-        <b style="color: #FEE000;">UPTIME:</b> Continuous Cyber Problem Solving & Research<br/>
-        <b style="color: #FEE000;">SHELL:</b> zsh 5.9 (x86_64-richard-netrunner)<br/>
-        <b style="color: #FEE000;">DISPLAY:</b> 3D Responsive Flex (Mobile & Computer Ready)<br/>
-        <b style="color: #FEE000;">SPECIALTIES:</b> Web Platforms | AI Models | OS Kernels | Security<br/>
-        <b style="color: #FEE000;">PORTFOLIO:</b> <a href="https://richardpius.vercel.app/" style="color: #00F0FF;">richardpius.vercel.app</a><br/>
-        <b style="color: #FEE000;">BLOG:</b> <a href="https://richardblog.vercel.app/" style="color: #FF0055;">richardblog.vercel.app</a>
-      </p>
+  </tr>
+  <!-- Content Body -->
+  <tr bgcolor="#FFFDF0">
+    <!-- Left Column: Avatar & Sticker Pills -->
+    <td width="32%" align="center" valign="middle" style="padding: 24px; border-right: 3px solid #000000;">
+      <img src="https://avatars.githubusercontent.com/u/142656806?v=4" width="140" height="140" style="border-radius: 16px; border: 3.5px solid #000000; box-shadow: 5px 5px 0px #000000;" alt="Richard Pius Avatar"/><br/><br/>
+      <span style="background-color: #FFE600; color: #000000; border: 2px solid #000000; border-radius: 6px; padding: 4px 10px; font-weight: 800; font-family: monospace; font-size: 14px; box-shadow: 3px 3px 0px #000000;">
+        RICHARD PIUS
+      </span><br/><br/>
+      <span style="background-color: #00F59B; color: #000000; border: 2px solid #000000; border-radius: 6px; padding: 3px 8px; font-weight: 700; font-family: monospace; font-size: 11px;">
+        BCA '26 • FULL-STACK
+      </span>&nbsp;
+      <span style="background-color: #FF5376; color: #FFFFFF; border: 2px solid #000000; border-radius: 6px; padding: 3px 8px; font-weight: 700; font-family: monospace; font-size: 11px;">
+        SYSTEMS ARCH
+      </span>
+    </td>
+    <!-- Right Column: Specs List -->
+    <td width="68%" valign="top" style="padding: 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #121212;">
+      <div style="font-family: monospace; font-size: 15px; font-weight: 800; color: #000000; margin-bottom: 12px;">
+        richard@workstation:~$ ./inspect_specs.sh
+      </div>
+      <table width="100%" cellspacing="4" cellpadding="2" border="0" style="font-size: 13.5px; line-height: 1.6;">
+        <tr>
+          <td width="30%" valign="top"><b>🎓 DEGREE:</b></td>
+          <td width="70%">Bachelor of Computer Applications (BCA)</td>
+        </tr>
+        <tr>
+          <td valign="top"><b>💼 SPECIALTY:</b></td>
+          <td>Full-Stack Web Engineering • Systems Programming • Applied AI</td>
+        </tr>
+        <tr>
+          <td valign="top"><b>🔬 RESEARCH:</b></td>
+          <td>C++ Compiler Construction, OS Kernels & LLM Fine-Tuning</td>
+        </tr>
+        <tr>
+          <td valign="top"><b>⚡ SUPERPOWER:</b></td>
+          <td>Bridging low-level systems logic with high-craft, modern user interfaces</td>
+        </tr>
+        <tr>
+          <td valign="top"><b>🌐 ECOSYSTEM:</b></td>
+          <td>
+            <a href="https://richardpius.vercel.app/" style="color: #000000; font-weight: bold; text-decoration: underline;">Portfolio</a> • 
+            <a href="https://richardblog.vercel.app/" style="color: #000000; font-weight: bold; text-decoration: underline;">Tech Blog</a> • 
+            <a href="https://2d-portfolio-game.pages.dev/" style="color: #000000; font-weight: bold; text-decoration: underline;">2D Game Experience</a>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>📬 STATUS:</b></td>
+          <td><b style="background-color: #00F59B; border: 1.5px solid #000; padding: 1px 6px; border-radius: 4px;">AVAILABLE</b> for Software Engineering roles & collaborations</td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
----
+<!-- ========================================== -->
+<!-- 📁 FEATURED PROJECTS BENTO GRID            -->
+<!-- ========================================== -->
 
-## 📁 CYBERDECK FILESYSTEM & APPLICATIONS (`/home/netrunner/cyber_apps`)
+## 🛠️ FEATURED ENGINEERING PROJECTS
 
-<table width="100%">
+<table width="100%" cellspacing="12" cellpadding="0" border="0">
   <tr>
+    <!-- Project 1: ClearBreeze -->
     <td width="50%" valign="top">
-      <h3>🌤️ <a href="https://github.com/richard-pius/ClearBreeze-Forecast">ClearBreeze-Forecast.app</a></h3>
-      <p>Theme-aware weather & air quality monitoring mobile application built with premium aesthetics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/App-Mobile-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Language-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-      </p>
+      <table width="100%" cellspacing="0" cellpadding="0" border="3" style="border: 3px solid #000000; border-radius: 10px; border-collapse: separate; overflow: hidden; background-color: #FFFDF0; box-shadow: 5px 5px 0px #000000;">
+        <tr bgcolor="#00E5FF">
+          <td style="padding: 10px 14px; border-bottom: 3px solid #000000;">
+            <b style="color: #000000; font-family: monospace; font-size: 14px;">🌤️ ClearBreeze-Forecast</b>
+            <span style="float: right; background-color: #000000; color: #FFFFFF; font-size: 10px; font-weight: bold; padding: 2px 6px; border-radius: 4px; font-family: monospace;">MOBILE APP</span>
+          </td>
+        </tr>
+        <tr bgcolor="#FFFDF0">
+          <td style="padding: 14px 16px;">
+            <p style="margin: 0 0 10px 0; font-size: 13.5px; color: #222222; line-height: 1.5;">
+              Theme-aware weather and air quality monitoring mobile application delivering live meteorological analytics with smooth micro-animations.
+            </p>
+            <p style="margin: 0 0 12px 0;">
+              <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+              <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+              <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
+            </p>
+            <a href="https://github.com/richard-pius/ClearBreeze-Forecast">
+              <img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
+
+    <!-- Project 2: BookRecommender -->
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/richard-pius/A-semantic-library-book-recommender">BookRecommender</a></h3>
-      <p>AI-powered semantic library book recommendation engine using machine learning and NLP.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Engine-AI_NLP-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Env-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-      </p>
+      <table width="100%" cellspacing="0" cellpadding="0" border="3" style="border: 3px solid #000000; border-radius: 10px; border-collapse: separate; overflow: hidden; background-color: #FFFDF0; box-shadow: 5px 5px 0px #000000;">
+        <tr bgcolor="#A388EE">
+          <td style="padding: 10px 14px; border-bottom: 3px solid #000000;">
+            <b style="color: #000000; font-family: monospace; font-size: 14px;">📚 Semantic Book Recommender</b>
+            <span style="float: right; background-color: #000000; color: #FFFFFF; font-size: 10px; font-weight: bold; padding: 2px 6px; border-radius: 4px; font-family: monospace;">AI / NLP</span>
+          </td>
+        </tr>
+        <tr bgcolor="#FFFDF0">
+          <td style="padding: 14px 16px;">
+            <p style="margin: 0 0 10px 0; font-size: 13.5px; color: #222222; line-height: 1.5;">
+              Intelligent library book recommendation engine utilizing natural language processing, vector similarity embeddings, and machine learning models.
+            </p>
+            <p style="margin: 0 0 12px 0;">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+              <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+              <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+            </p>
+            <a href="https://github.com/richard-pius/A-semantic-library-book-recommender">
+              <img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
+
   <tr>
+    <!-- Project 3: 2D Game Portfolio -->
     <td width="50%" valign="top">
-      <h3>👾 <a href="https://github.com/richard-pius/2D-game-portfolio-website">2DPortfolioGame.exe</a></h3>
-      <p>Interactive portfolio website styled as an immersive 2D adventure game. (<a href="https://2d-portfolio-game.pages.dev/">Launch Cyber Game</a>)</p>
-      <p>
-        <img src="https://img.shields.io/badge/Engine-JS_HTML5-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Live_App-PAGES.DEV-1572B6?style=flat-square"/>
-      </p>
+      <table width="100%" cellspacing="0" cellpadding="0" border="3" style="border: 3px solid #000000; border-radius: 10px; border-collapse: separate; overflow: hidden; background-color: #FFFDF0; box-shadow: 5px 5px 0px #000000;">
+        <tr bgcolor="#00F59B">
+          <td style="padding: 10px 14px; border-bottom: 3px solid #000000;">
+            <b style="color: #000000; font-family: monospace; font-size: 14px;">👾 2D Portfolio Adventure</b>
+            <span style="float: right; background-color: #000000; color: #FFFFFF; font-size: 10px; font-weight: bold; padding: 2px 6px; border-radius: 4px; font-family: monospace;">PLAYABLE GAME</span>
+          </td>
+        </tr>
+        <tr bgcolor="#FFFDF0">
+          <td style="padding: 14px 16px;">
+            <p style="margin: 0 0 10px 0; font-size: 13.5px; color: #222222; line-height: 1.5;">
+              Interactive personal portfolio engineered as an exploration RPG. Move your character around rooms, talk to NPCs, and inspect projects.
+            </p>
+            <p style="margin: 0 0 12px 0;">
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+              <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+              <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Pages"/>
+            </p>
+            <a href="https://2d-portfolio-game.pages.dev/" target="_blank">
+              <img src="https://img.shields.io/badge/PLAY_LIVE-00F59B?style=for-the-badge&logo=cloudflarepages&logoColor=black&labelColor=000000" alt="Play Live"/>
+            </a>
+            <a href="https://github.com/richard-pius/2D-game-portfolio-website">
+              <img src="https://img.shields.io/badge/GITHUB_REPO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
+
+    <!-- Project 4: Compiler & LLM -->
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/richard-pius/Rhenium-Compiler">RheniumCompiler.bin</a></h3>
-      <p>Systems engineering initiative featuring C++ compiler construction and LLM fine-tuning scripts.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Module-Compiler-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Module-LLM_Tuning-009688?style=flat-square&logo=python&logoColor=white"/>
-      </p>
+      <table width="100%" cellspacing="0" cellpadding="0" border="3" style="border: 3px solid #000000; border-radius: 10px; border-collapse: separate; overflow: hidden; background-color: #FFFDF0; box-shadow: 5px 5px 0px #000000;">
+        <tr bgcolor="#FFE600">
+          <td style="padding: 10px 14px; border-bottom: 3px solid #000000;">
+            <b style="color: #000000; font-family: monospace; font-size: 14px;">⚙️ Rhenium Compiler & LLM</b>
+            <span style="float: right; background-color: #000000; color: #FFFFFF; font-size: 10px; font-weight: bold; padding: 2px 6px; border-radius: 4px; font-family: monospace;">SYSTEMS</span>
+          </td>
+        </tr>
+        <tr bgcolor="#FFFDF0">
+          <td style="padding: 14px 16px;">
+            <p style="margin: 0 0 10px 0; font-size: 13.5px; color: #222222; line-height: 1.5;">
+              Systems architecture exploration featuring custom C++ compiler construction alongside specialized domain-specific LLM fine-tuning scripts.
+            </p>
+            <p style="margin: 0 0 12px 0;">
+              <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+              <img src="https://img.shields.io/badge/LLM_Tuning-FF6F00?style=flat-square&logo=pytorch&logoColor=white" alt="LLM"/>
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+            </p>
+            <a href="https://github.com/richard-pius/Rhenium-Compiler">
+              <img src="https://img.shields.io/badge/COMPILER_REPO-FFE600?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=000000" alt="Compiler Repo"/>
+            </a>
+            <a href="https://github.com/richard-pius/Rithaji-LLM">
+              <img src="https://img.shields.io/badge/LLM_REPO-000000?style=for-the-badge&logo=github&logoColor=white" alt="LLM Repo"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
+
   <tr>
+    <!-- Project 5: Solkie OS -->
     <td width="50%" valign="top">
-      <h3>🐧 <a href="https://github.com/richard-pius/Solkie-OS">SolkieOS.iso</a></h3>
-      <p>Custom Ubuntu Linux remix and minimal experimental operating system distribution.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Distro-Ubuntu_Remix-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kernel-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      </p>
+      <table width="100%" cellspacing="0" cellpadding="0" border="3" style="border: 3px solid #000000; border-radius: 10px; border-collapse: separate; overflow: hidden; background-color: #FFFDF0; box-shadow: 5px 5px 0px #000000;">
+        <tr bgcolor="#FF7A00">
+          <td style="padding: 10px 14px; border-bottom: 3px solid #000000;">
+            <b style="color: #000000; font-family: monospace; font-size: 14px;">🐧 Solkie OS & Linux Distro</b>
+            <span style="float: right; background-color: #000000; color: #FFFFFF; font-size: 10px; font-weight: bold; padding: 2px 6px; border-radius: 4px; font-family: monospace;">OS KERNEL</span>
+          </td>
+        </tr>
+        <tr bgcolor="#FFFDF0">
+          <td style="padding: 14px 16px;">
+            <p style="margin: 0 0 10px 0; font-size: 13.5px; color: #222222; line-height: 1.5;">
+              Custom Ubuntu Linux remix distribution and minimal bootable experimental operating system designed for OS architecture and sysadmin research.
+            </p>
+            <p style="margin: 0 0 12px 0;">
+              <img src="https://img.shields.io/badge/Ubuntu_Remix-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+              <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+              <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+            </p>
+            <a href="https://github.com/richard-pius/Solkie-OS">
+              <img src="https://img.shields.io/badge/SOLKIE_OS-FF7A00?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=000000" alt="Solkie OS"/>
+            </a>
+            <a href="https://github.com/richard-pius/simple-linux-distro-">
+              <img src="https://img.shields.io/badge/DISTRO_REPO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Distro Repo"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
+
+    <!-- Project 6: TechBlog -->
     <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/richard-pius/Blog">TechBlog.web</a></h3>
-      <p>Personal tech blog platform (<a href="https://richardblog.vercel.app/">richardblog.vercel.app</a>) and containerized Flask microservices.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Platform-Next.js_TS-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Runtime-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
+      <table width="100%" cellspacing="0" cellpadding="0" border="3" style="border: 3px solid #000000; border-radius: 10px; border-collapse: separate; overflow: hidden; background-color: #FFFDF0; box-shadow: 5px 5px 0px #000000;">
+        <tr bgcolor="#FF5376">
+          <td style="padding: 10px 14px; border-bottom: 3px solid #000000;">
+            <b style="color: #000000; font-family: monospace; font-size: 14px;">📝 TechBlog & Microservices</b>
+            <span style="float: right; background-color: #000000; color: #FFFFFF; font-size: 10px; font-weight: bold; padding: 2px 6px; border-radius: 4px; font-family: monospace;">FULL-STACK</span>
+          </td>
+        </tr>
+        <tr bgcolor="#FFFDF0">
+          <td style="padding: 14px 16px;">
+            <p style="margin: 0 0 10px 0; font-size: 13.5px; color: #222222; line-height: 1.5;">
+              Production developer blog platform built with Next.js & TypeScript, containerized with Docker, and supported by Python Flask microservices.
+            </p>
+            <p style="margin: 0 0 12px 0;">
+              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+            </p>
+            <a href="https://richardblog.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/READ_BLOG-FF5376?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=000000" alt="Read Blog"/>
+            </a>
+            <a href="https://github.com/richard-pius/Blog">
+              <img src="https://img.shields.io/badge/GITHUB_REPO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
----
+<!-- ========================================== -->
+<!-- ⚙️ TECH ARSENAL / LOADED DRIVERS          -->
+<!-- ========================================== -->
 
-## ⚙️ NEURAL MODULES & LOADED DRIVERS (STACK)
+## ⚡ TECH ARSENAL & LOADED DRIVERS
 
 <div align="center">
 
-### 🗣️ Core Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Core Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
 
-### 🎨 Frontend & Mobile Engines
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎨 Frontend & Mobile Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-### ⚙️ Backend, Databases & Runtime
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### ⚙️ Backend, Databases & Runtimes
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
-### ☁️ Cloud, Infrastructure & Virtualization
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+### ☁️ Cloud, DevOps & System Utilities
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-### 📊 Data Science, Analytics & System Utilities
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+### 🧠 AI, Data Science & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 
 </div>
 
----
+<!-- ========================================== -->
+<!-- 📈 GITHUB TELEMETRY & ACTIVITY MONITOR     -->
+<!-- ========================================== -->
 
-## 📈 NETRUNNER STATS & RESOURCE MONITOR
+## 📊 LIVE GITHUB TELEMETRY & METRICS
 
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github-stats-extended.vercel.app/api?username=richard-pius&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark">
-          <img src="https://github-stats-extended.vercel.app/api?username=richard-pius&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark" width="100%" alt="GitHub Stats Extended" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=richard-pius&theme=dark&hide_border=true" width="100%" alt="Commit Streak Tracker" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=richard-pius&layout=compact&theme=dark&hide_border=true&langs_count=8" width="60%" alt="System Language Modules" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%" cellspacing="0" cellpadding="0" border="3" style="border: 3px solid #000000; border-radius: 12px; border-collapse: separate; overflow: hidden; background-color: #FFFDF0; box-shadow: 6px 6px 0px #000000; margin-bottom: 25px;">
+  <!-- Neobrutalist Title Strip -->
+  <tr bgcolor="#FFE600">
+    <td style="padding: 10px 18px; border-bottom: 3px solid #000000;">
+      <b style="color: #000000; font-family: monospace; font-size: 14px;">📈 TELEMETRY // REAL-TIME ACTIVITY & REPOSITORY STATS</b>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFDF0">
+    <td style="padding: 20px;">
+      <table width="100%" cellspacing="0" cellpadding="6" border="0">
+        <tr>
+          <!-- Stats Card -->
+          <td width="50%" align="center" valign="middle">
+            <a href="https://github.com/richard-pius">
+              <img src="https://github-stats-extended.vercel.app/api?username=richard-pius&show_icons=true&include_all_commits=true&bg_color=FFFDF0&border_color=000000&title_color=000000&text_color=000000&icon_color=000000" width="100%" alt="Richard Pius GitHub Stats" />
+            </a>
+          </td>
+          <!-- Streak Stats -->
+          <td width="50%" align="center" valign="middle">
+            <a href="https://github.com/richard-pius">
+              <img src="https://streak-stats.demolab.com?user=richard-pius&background=FFFDF0&border=000000&ring=FFE600&fire=FF5376&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=222222" width="100%" alt="Commit Streak Tracker" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <!-- Top Languages -->
+          <td colspan="2" align="center" style="padding-top: 15px;">
+            <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=richard-pius&layout=compact&langs_count=8&bg_color=FFFDF0&border_color=000000&title_color=000000&text_color=000000" width="65%" alt="Top Languages Used" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
----
+<!-- ========================================== -->
+<!-- 🌐 NETWORK DOCK & GET IN TOUCH            -->
+<!-- ========================================== -->
 
-## 🌐 NETWORK DOCK & CONNECTIONS
+## 🤝 CONNECT & COLLABORATE
 
 <div align="center">
 
 <p align="center">
-  <a href="https://linkedin.com/in/richard-pius-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://richardpius.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-FFE600?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" alt="Portfolio" />
   </a>
-  <a href="https://richardpius.vercel.app/">
-    <img src="https://img.shields.io/badge/Cyber_Deck-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/richard-pius-developer" target="_blank">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="https://richardblog.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/READ_TECH_BLOG-FF5376?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Blog" />
+  </a>
+  &nbsp;
+  <a href="https://2d-portfolio-game.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_2D_GAME-00F59B?style=for-the-badge&logo=cloudflarepages&logoColor=black&labelColor=000000" alt="Game" />
+  </a>
+  &nbsp;
   <a href="mailto:richardpius2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://richardblog.vercel.app/">
-    <img src="https://img.shields.io/badge/Net_Logs-FF0055?style=for-the-badge&logo=next.js&logoColor=white" alt="Blog"/>
+    <img src="https://img.shields.io/badge/SEND_EMAIL-FF7A00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
   </a>
 </p>
+
+<br/>
+
+<table cellspacing="0" cellpadding="0" border="3" style="border: 3px solid #000000; border-radius: 8px; border-collapse: separate; background-color: #FFE600; box-shadow: 4px 4px 0px #000000;">
+  <tr bgcolor="#FFE600">
+    <td style="padding: 10px 22px; font-family: monospace; font-size: 13.5px; font-weight: 700; color: #000000;">
+      ⚡ "Always be building, breaking, and shipping." — Richard Pius
+    </td>
+  </tr>
+</table>
 
 </div>
