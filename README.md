@@ -81,8 +81,6 @@ I'm a **Software Engineer** who thrives at the intersection of **low-level syste
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Featured Projects
 
-> A curated selection of production-grade applications, low-level compilers, applied ML systems, and interactive software experiments.
-
 <br/>
 
 <table>
@@ -166,7 +164,7 @@ Production developer publication platform with Next.js App Router, containerized
 <!-- ░░░  TECH STACK                                           ░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="28" /> &nbsp;Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
 
@@ -227,21 +225,12 @@ Production developer publication platform with Next.js App Router, containerized
 
 <div align="center">
 
-<!-- Stats & Streak side by side -->
-<a href="https://github.com/richard-pius">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=richard-pius&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=false&rank_icon=github" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/richard-pius">
-  <img height="180" src="https://streak-stats.demolab.com?user=richard-pius&theme=github-dark-blue&background=0D1117&border=21262D&stroke=21262D&ring=58A6FF&fire=F0883E&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=484F58" alt="Streak Stats" />
-</a>
-
-<br/><br/>
-
-<!-- Top Languages -->
-<a href="https://github.com/richard-pius">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-pius&layout=compact&langs_count=10&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9" width="420" alt="Top Languages" />
-</a>
+<!-- Streak Stats — auto-switches between light / dark themes -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=richard-pius&theme=github-dark-blue&background=0D1117&border=21262D&stroke=21262D&ring=58A6FF&fire=F0883E&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=484F58" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=richard-pius&theme=default" />
+  <img alt="Streak Stats" src="https://streak-stats.demolab.com?user=richard-pius&theme=default" />
+</picture>
 
 <br/><br/>
 
@@ -276,13 +265,9 @@ Whether you're exploring software architecture, collaborating on open-source, or
 <a href="https://2d-portfolio-game.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Play_RPG-10B981?style=for-the-badge&logo=gamemaker&logoColor=white" alt="Game"/></a>&nbsp;
 <a href="mailto:richardpius2005@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
-
-> *"Simplicity is prerequisite for reliability."* — **Edsger W. Dijkstra**
-
 <br/>
 
 </div>
 
 <!-- ── Footer Wave ── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:0D1117,75:1A1B27,100:0284C7&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,25:58A6FF,50:8B5CF6,75:6366F1,100:0284C7&height=120&section=footer" width="100%" alt="Footer" />
