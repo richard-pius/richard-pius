@@ -227,8 +227,9 @@ Production developer publication platform with Next.js App Router, containerized
 
 <div align="center">
 
+<!-- Stats & Streak side by side -->
 <a href="https://github.com/richard-pius">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=richard-pius&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=false" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=richard-pius&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=false" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/richard-pius">
@@ -237,20 +238,16 @@ Production developer publication platform with Next.js App Router, containerized
 
 <br/><br/>
 
+<!-- Top Languages -->
 <a href="https://github.com/richard-pius">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-pius&layout=compact&langs_count=10&theme=github_dark&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&hide_border=false" width="420" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=richard-pius&layout=compact&langs_count=10&theme=github_dark&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&hide_border=false" width="420" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
-<!-- ── Contribution Activity Graph ── -->
-<a href="https://github.com/richard-pius">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richard-pius&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F0883E&area=true&area_color=58A6FF&hide_border=true" width="95%" alt="Contribution Graph" />
-</a>
-
-<br/><br/>
-
-<!-- ── Snake Contribution Animation ── -->
+<!-- ── Snake Contribution Animation ──
+     This will render after you push and the snake.yml GitHub Action runs.
+     Trigger it manually: Actions → Generate Snake → Run workflow -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richard-pius/richard-pius/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richard-pius/richard-pius/output/github-contribution-grid-snake.svg" />
