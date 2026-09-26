@@ -1,273 +1,77 @@
-<div align="center">
+# Hello, I'm Richard Pius 👋
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ░░░  HEADER · CAPSULE RENDER WAVING BANNER                ░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&width=600&lines=Software+Developer;DevOps+Specialist;Building+secure,+scalable+cloud+systems)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:0D1117,75:1A1B27,100:0284C7&height=230&section=header&text=Richard%20Pius&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Systems%20Architect%20%C2%B7%20Full-Stack%20%26%20AI&descSize=17&descAlignY=57&descAlign=50" width="100%" alt="Richard Pius — Software Engineer" />
+---
 
-<!-- ── Terminal Status Bar ── -->
-<table>
-  <tr>
-    <td>
-      <samp>🔴 🟡 🟢 &nbsp; richard@dev:~/workspace <b>(main)</b></samp>
-    </td>
-  </tr>
-</table>
+### 👨‍💻 About Me
 
-<!-- ── Animated Typing Ticker ── -->
-<a href="https://github.com/richard-pius">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=%E2%9A%A1+Architecting+scalable+full-stack+platforms+%26+cloud-native+systems;%F0%9F%94%A7+Building+C%2B%2B+compilers%2C+custom+OS+kernels+%26+runtimes;%F0%9F%A7%A0+Deploying+applied+AI%2C+vector+search+%26+fine-tuned+LLMs;%E2%9C%A8+Bridging+systems+depth+with+human-centric+UX+design" alt="Typing SVG" />
-</a>
+Hey there! I'm Richard, a software developer and DevOps specialist based in Kerala, India. 
 
-<br/>
+I spend my days building secure, scalable cloud systems—always keeping "Security-by-Design" at the core of what I do. I genuinely love the challenge of bridging the gap between development and operations. To me, it's not just about writing code that works; it's about making sure it runs efficiently, securely, and seamlessly when it hits production. 
 
-<!-- ── Quick Navigation Badges ── -->
-<a href="https://richardpius.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="https://richardblog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-8B5CF6?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>&nbsp;
-<a href="https://2d-portfolio-game.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Play_My_RPG-10B981?style=for-the-badge&logo=gamemaker&logoColor=white" alt="RPG Game"/></a>&nbsp;
-<a href="https://linkedin.com/in/richard-pius-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:richardpius2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+When I'm not deep into AWS configurations, writing Terraform modules, or tinkering with local LLMs, you'll probably find me exploring the latest web frameworks or optimizing infrastructure. 
 
-<br/>
+Grab a coffee, take a look around, and let's build something awesome.
 
-<img src="https://komarev.com/ghpvc/?username=richard-pius&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
-&nbsp;&nbsp;
-<a href="mailto:richardpius2005@gmail.com"><img src="https://img.shields.io/badge/Open_to_SWE_Roles-10B981?style=flat-square&logo=statuspage&logoColor=white" alt="Status"/></a>
+---
 
-</div>
+### 🛠️ Core Tech Stack
 
-<br/>
+**DevOps & Cloud**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ░░░  ABOUT ME                                             ░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+**Web**  
+![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
+**AI & Data**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-white?style=flat&logo=ollama&logoColor=black)
 
-```yaml
-name: Richard Pius
-role: Software Engineer & Systems Architect
-education: BCA '26 — Computer Science Graduate Track
-location: India
-```
+**Other**  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-I'm a **Software Engineer** who thrives at the intersection of **low-level systems precision** and **high-craft user experience design**. I build software where microsecond architectural efficiency meets intuitive, frictionless interfaces.
+---
 
-<table>
-  <tr>
-    <td><b>⚡ Core Disciplines</b></td>
-    <td>Full-Stack Web Platforms · Systems Programming · Applied Machine Learning</td>
-  </tr>
-  <tr>
-    <td><b>🔬 Deep Systems Work</b></td>
-    <td>C++ Compiler Construction (ASTs & Codegen) · Custom Linux OS · LLM Fine-Tuning</td>
-  </tr>
-  <tr>
-    <td><b>🎨 UX Philosophy</b></td>
-    <td>Sub-100ms response targets · Fluid micro-interactions · Intentional visual hierarchy</td>
-  </tr>
-  <tr>
-    <td><b>📬 Availability</b></td>
-    <td>Open for full-time SWE roles, high-impact internships & open-source collaboration</td>
-  </tr>
-</table>
+### 🚀 Featured Work
 
-<br/>
+- **Freelance Architect @ Zenji Learning**  
+  Engineered a production curriculum portal using Astro 5 & React 18 Islands. Focused heavily on performance to hit sub-1s page loads.
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ░░░  FEATURED PROJECTS                                    ░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+- **NicheSearch Cloud Engine**  
+  Built a 3-tier AWS architecture utilizing Terraform for IaC, Docker for containerization, and Django for the backend.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Featured Projects
+- **Rithaji-1.5B LLM**  
+  Fine-tuned an AI coding model using Unsloth LoRA, quantized for efficient local inference.
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌤️ ClearBreeze Forecast
-**Flutter · Dart · REST API**
-
-Theme-aware meteorological mobile app with live hyper-local air quality indexing, multi-day forecasting, smooth weather state micro-animations, and offline caching.
-
-<a href="https://github.com/richard-pius/ClearBreeze-Forecast"><img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Semantic Book Recommender
-**Python · Scikit-Learn · Vector NLP**
-
-Intelligent recommendation engine leveraging semantic NLP, vector similarity embeddings, and clustering algorithms for context-aware book suggestions beyond exact matches.
-
-<a href="https://github.com/richard-pius/A-semantic-library-book-recommender"><img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 👾 2D Interactive RPG Portfolio
-**JavaScript · HTML5 Canvas · Cloudflare Pages**
-
-Gamified portfolio on an HTML5 2D Canvas engine with tile-based map rendering, spatial collision detection, dynamic NPC dialogue systems, and zero-latency client-side execution.
-
-<a href="https://2d-portfolio-game.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Play_Live-10B981?style=for-the-badge&logo=gamemaker&logoColor=white" alt="Play"/></a>&nbsp;
-<a href="https://github.com/richard-pius/2D-game-portfolio-website"><img src="https://img.shields.io/badge/Repo-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Rhenium Compiler & Rithaji LLM
-**C++ · PyTorch · Python**
-
-Custom C++ compiler pipeline built from scratch — lexing, recursive-descent AST parsing, and code generation — coupled with domain-specific LLM fine-tuning pipelines.
-
-<a href="https://github.com/richard-pius/Rhenium-Compiler"><img src="https://img.shields.io/badge/Compiler-0284C7?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Compiler"/></a>&nbsp;
-<a href="https://github.com/richard-pius/Rithaji-LLM"><img src="https://img.shields.io/badge/LLM-161B22?style=for-the-badge&logo=github&logoColor=white" alt="LLM"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🐧 Solkie OS & Minimal Distro
-**Linux Kernel · Ubuntu Remix · Bash**
-
-Custom Ubuntu Linux remix distribution and minimal bootable OS for systems administration, kernel modularity exploration, and optimized headless dev workflows.
-
-<a href="https://github.com/richard-pius/Solkie-OS"><img src="https://img.shields.io/badge/Solkie_OS-EA580C?style=for-the-badge&logo=linux&logoColor=white" alt="Solkie"/></a>&nbsp;
-<a href="https://github.com/richard-pius/simple-linux-distro-"><img src="https://img.shields.io/badge/Distro-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Distro"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 TechBlog Platform
-**Next.js · TypeScript · Docker**
-
-Production developer publication platform with Next.js App Router, containerized deployments, automated CI/CD, and Python Flask analytics microservices.
-
-<a href="https://richardblog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Read_Blog-8B5CF6?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>&nbsp;
-<a href="https://github.com/richard-pius/Blog"><img src="https://img.shields.io/badge/Repo-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ░░░  TECH STACK                                           ░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" /> &nbsp;Tech Stack
+### 📊 GitHub Stats
 
 <div align="center">
-
-#### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-#### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-#### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=richard-pius&theme=tokyonight&hide_border=true&show_icons=true" alt="Richard's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-pius&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ░░░  GITHUB STATS & ANALYTICS                             ░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### 📫 Let's Connect
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
+Feel free to reach out if you want to chat about cloud architectures, the future of local LLMs, or just to say hi!
 
-<div align="center">
-
-<!-- Streak Stats — auto-switches between light / dark themes -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=richard-pius&theme=github-dark-blue&background=0D1117&border=21262D&stroke=21262D&ring=58A6FF&fire=F0883E&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=484F58" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=richard-pius&theme=default" />
-  <img alt="Streak Stats" src="https://streak-stats.demolab.com?user=richard-pius&theme=default" />
-</picture>
-
-<br/><br/>
-
-<!-- ── Snake Contribution Animation ──
-     This will render after you push and the snake.yml GitHub Action runs.
-     Trigger it manually: Actions → Generate Snake → Run workflow -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richard-pius/richard-pius/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richard-pius/richard-pius/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/richard-pius/richard-pius/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ░░░  CONNECT                                              ░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> &nbsp;Let's Connect
-
-<div align="center">
-
-Whether you're exploring software architecture, collaborating on open-source, or hiring for high-impact engineering — my inbox is always open.
-
-<br/><br/>
-
-<a href="https://richardpius.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="https://linkedin.com/in/richard-pius-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://richardblog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-8B5CF6?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>&nbsp;
-<a href="https://2d-portfolio-game.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Play_RPG-10B981?style=for-the-badge&logo=gamemaker&logoColor=white" alt="Game"/></a>&nbsp;
-<a href="mailto:richardpius2005@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/>
-
-</div>
-
-<!-- ── Footer Wave ── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,25:58A6FF,50:8B5CF6,75:6366F1,100:0284C7&height=120&section=footer" width="100%" alt="Footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-pius-developer/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:piusrichard713@gmail.com)
