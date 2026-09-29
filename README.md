@@ -1,6 +1,6 @@
 # Hello, I'm Richard Pius 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&width=600&lines=Software+Developer;DevOps+Specialist;Building+secure,+scalable+cloud+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&width=600&lines=Software+Developer;strong+foundational+on+DevOps;Building+secure,+scalable+cloud+systems)](https://git.io/typing-svg)
 
 ---
 
