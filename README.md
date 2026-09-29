@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-Hey there! I'm Richard, a software developer and DevOps specialist based in Kerala, India. 
+Hey there! I'm Richard, a software developer and strong foundational on DevOps based in Kerala, India. 
 
 I spend my days building secure, scalable cloud systems—always keeping "Security-by-Design" at the core of what I do. I genuinely love the challenge of bridging the gap between development and operations. To me, it's not just about writing code that works; it's about making sure it runs efficiently, securely, and seamlessly when it hits production. 
 
